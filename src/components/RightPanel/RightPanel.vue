@@ -8,5 +8,6 @@
   height: 100%;
   background-color: #fff;
   border-right: 1px solid #888;
+  border-left:  1px solid #888;
 }
 </style>
